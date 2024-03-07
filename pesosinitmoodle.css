@@ -1,3 +1,9 @@
+/* Red toolbar for the Light Theme */
 html {
     --core-header-toolbar-background: red;
+}
+
+/* Green toolbar for the Dark Theme */
+html.dark {
+    --core-header-toolbar-background: green;
 }
